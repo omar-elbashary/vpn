@@ -112,7 +112,7 @@ body {
 
   @media (max-width: 500px) {
     overflow-x: auto;
-    width: 21rem;
+    width: 10rem;
     margin-left: auto;
   }
 }
